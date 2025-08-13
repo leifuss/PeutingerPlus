@@ -6,7 +6,7 @@ PeutingerPlus is an attempt to align three major online databases that provide U
 
 * The [Pleiades](https://pleiades.stoa.org) Gazetteer of the Ancient World
 * [TP-Online](https://www.ku.de/ggf/geschichte/alte-geschichte/forschung/datenbank-tp-online)
-* The [_Rome's World_](https://www.cambridge.org/us/talbert/talbertdatabase/prm.html) gazetteer (Talbert 2010)
+* [_Rome's World_](https://www.cambridge.org/us/talbert/talbertdatabase/prm.html)
 
 It is essentially a spreadsheet with 4 tabs: 3 look-up tables (one for each database), and a mapping table.
 
