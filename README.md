@@ -26,7 +26,9 @@ At present it only includes references to places on the Map's itineraries. It do
 
 Absolutely! If so, feel free to [get in touch](mailto:l.isaksen@exeter.ac.uk). Some experience of using formulas in Excel would be an advantage but is not essential.
 
+## Thanks and acknowledgements
 
+This work is entirely dependent on the very extensive work of the resources named above, which also contained a significant amount of cross-referencing (often to the off-line [_Barrington Atlas of the Greek and Roman World_](https://en.wikipedia.org/wiki/Barrington_Atlas_of_the_Greek_and_Roman_World). The contribution of PeutingerPlus has simply been to consolidate, synthesisze and augment those cross-links and present them in a unified and handy format.
 
 
 
