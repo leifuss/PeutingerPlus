@@ -16,7 +16,7 @@ Each of the resources above provides different information about each of the loc
 
 ## Can I use it?
 
-Yes. It is available under a CC-BY license. 
+Yes. It is available under a [CC-BY license](https://creativecommons.org/licenses/by/4.0/). 
 
 ## What limitations does it have?
 
@@ -24,7 +24,7 @@ At present it only includes references to places on the Map's itineraries. It do
 
 ## I love nothing better than filling spreadsheets with lists of ancient places. Can I help?
 
-Absolutely! If so, feel free to get in touch. Some experience of using formulas in Excle would be an advantage but is not essential.
+Absolutely! If so, feel free to [get in touch](mailto:l.isaksen@exeter.ac.uk). Some experience of using formulas in Excel would be an advantage but is not essential.
 
 
 
